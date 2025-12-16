@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hey, I’m **Adiix**
+# 👋 Hey, I’m **Aditi**
 
 <p align="center">
   <i>10th Grader • Beginner Developer • Building things one commit at a time</i>
