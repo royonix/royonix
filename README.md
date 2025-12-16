@@ -67,5 +67,3 @@
 <p align="center">
   ⭐ <i>Learning. Building. Improving.</i>
 </p>
-
-**royonix/royonix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
