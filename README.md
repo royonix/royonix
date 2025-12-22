@@ -13,7 +13,7 @@
 
 ## 🌟 About Me
 
-* 🎓 Class 10 student exploring **coding & tech**
+* 🎓 A student exploring **coding & tech**
 * 🧠 Learning by **building real projects**, not just tutorials
 * 🌱 Beginner rn, but serious about growth
 * 💻 Interested in **Web Dev + Python** (cybersecurity soon) 
