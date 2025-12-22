@@ -18,7 +18,7 @@
 * 🌱 Beginner rn, but serious about growth
 * 💻 Interested in **Web Dev + Python** (cybersecurity soon) 
 
-> I’m a Class 10 student currently learning the fundamentals of web development. I enjoy understanding how things work behind the scenes and prefer learning by building small, practical projects rather than just watching tutorials.
+> I’m a student currently learning the fundamentals of web development. I enjoy understanding how things work behind the scenes and prefer learning by building small, practical projects rather than just watching tutorials.
 > Right now, my main focus is on HTML & CSS, especially layouts, Flexbox, positioning, and responsive design. I believe consistency and clarity matter more than rushing into advanced topics.
 
 ---
