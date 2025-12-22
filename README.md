@@ -4,7 +4,7 @@
 
 </p><h1 align="center">👋 Hello, I’m <b>Aditi</b></h1>
 <p align="center">
-  <i>Class 10 Student • Frontend Learner • Building My Coding Repertoire</i>
+  <i>Student • Frontend Learner • Building My Coding Repertoire</i>
 </p><p align="center">
   <img src="https://komarev.com/ghpvc/?username=royonix&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
